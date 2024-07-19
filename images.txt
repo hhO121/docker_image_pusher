@@ -1,7 +1,5 @@
-cloudflare/cloudflared   云火炬/云火炬
-homeassistant/home-assistantHome Assistant是一个开源的智能家居自动化平台，它允许用户通过语音控制、自动化规则和API来控制和自动化他们的设备。它支持多种设备和协议，包括Amazon Alexa、Google Home、IFTTT、Zigbee、Z-Wave和Bluetooth Mesh等。
-
-Home Assistant是一个功能强大且易于使用的平台，它可以帮助用户节省时间和精力，使他们的生活更加便捷和舒适。
-hdbjlizhe/autman   HDBJLIZHE/奥特曼
+cloudflare/cloudflared
+homeassistant/home-assistant
+hdbjlizhe/autman
 6053537/portainer-ce
 whyour/qinglong
