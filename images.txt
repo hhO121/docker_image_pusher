@@ -1,2 +1,4 @@
 cloudflare/cloudflared
 homeassistant/home-assistant
+portainer/portainer-ce
+hdbjlizhe/autman
