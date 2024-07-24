@@ -3,3 +3,4 @@ homeassistant/home-assistant
 hdbjlizhe/autman
 6053537/portainer-ce
 whyour/qinglong
+yafoo/pushme-server
